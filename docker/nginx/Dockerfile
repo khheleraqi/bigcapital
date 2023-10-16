@@ -1,4 +1,4 @@
-FROM nginx:1.11
+FROM nginx:1.25.2
 
 RUN mkdir /etc/nginx/sites-available && rm /etc/nginx/conf.d/default.conf
 ADD nginx.conf /etc/nginx/
