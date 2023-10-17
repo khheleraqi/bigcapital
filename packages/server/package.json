@@ -97,7 +97,7 @@
     "rtl-detect": "^1.0.4",
     "ts-transformer-keys": "^0.4.2",
     "tsyringe": "^4.3.0",
-    "typedi": "^0.8.0",
+    "typedi": "^0.10.0",
     "uniqid": "^5.2.0",
     "winston": "^3.2.1"
   },
