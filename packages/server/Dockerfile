@@ -1,4 +1,4 @@
-FROM node:14.20-alpine as build
+FROM node:14.21.0-alpine as build
 
 USER root
 
