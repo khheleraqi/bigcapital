@@ -51,7 +51,7 @@
     "formik": "^2.2.5",
     "history": "4.10.1",
     "http-proxy-middleware": "^1.0.0",
-    "jest": "24.9.0",
+    "jest": "27.0.2",
     "jest-environment-jsdom-fourteen": "1.0.1",
     "jest-resolve": "24.9.0",
     "jest-watch-typeahead": "0.4.2",
